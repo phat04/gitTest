@@ -72,3 +72,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 gitTest/Library/
 gitTest/Temp/
+gitTest/Logs/
